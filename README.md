@@ -1,86 +1,118 @@
 <div align="center">
 
-# Hi 👋, I'm Ajeet Rawat
+# 👋 Hi, I'm Ajeet Rawat
 
-### Data Analyst • QA Engineer • Python Developer
+### MCA Graduate | Aspiring IT Professional
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+Developer;Power+BI+Enthusiast;Machine+Learning+Explorer;QA+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=MCA+Graduate;Technology+Enthusiast;Python+%26+SQL+Learner;Aspiring+Data+Analyst;Aspiring+Software+Tester" />
 
-<p>
-  <a href="https://github.com/Ajeetrwt2002">
-    <img src="https://img.shields.io/github/followers/Ajeetrwt2002?label=Followers&style=for-the-badge">
-  </a>
-  <a href="https://github.com/Ajeetrwt2002">
-    <img src="https://img.shields.io/github/stars/Ajeetrwt2002?affiliations=OWNER&style=for-the-badge">
-  </a>
-</p>
+<br>
+
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Location-Dehradun-success?style=for-the-badge" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 MCA Graduate
+I am an MCA graduate with internship experience in XML Validation, Error Resolution, and Quality Assurance.
 
-💼 XML Intern at Way2Class Pvt. Ltd.
+I enjoy solving technical problems, learning new technologies, and building practical applications that create value.
 
-📊 Passionate about Data Analytics, Business Intelligence & Machine Learning
+Currently seeking opportunities in:
 
-🧪 Interested in Software Testing & Quality Assurance
-
-🌱 Currently improving my SQL, Power BI and Python skills
-
-📍 Dehradun, Uttarakhand, India
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Data Analytics
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### Data Science
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
-
-### Testing & QA
-
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+- Data Analytics
+- Software Testing
+- Technical Support
+- Business Analysis
+- IT Operations
+- Technology-driven Roles
 
 ---
 
-# 💼 Experience
+## 🎓 Education
 
-## XML Intern | Way2Class Pvt. Ltd.
+### Master of Computer Applications (MCA)
+**Graphic Era Hill University, Dehradun**
+*2023 – 2025*
+
+### Bachelor of Computer Applications (BCA)
+**Himalayan Institute of Technology (HNBGU)**
+*2020 – 2023*
+
+---
+
+## 💼 Internship Experience
+
+### XML Intern | Way2Class Pvt. Ltd.
 
 📅 Jan 2026 – Jun 2026
 
-✔ XML Validation
+#### Key Responsibilities
 
-✔ DTD Validation
+- XML Validation
+- XML Compilation
+- DTD Validation
+- Error Identification & Resolution
+- Quality Assurance Processes
+- IEEE Journal Processing
+- LaTeX to XML Conversion
 
-✔ Error Resolution
+#### Skills Gained
 
-✔ XML Compilation
+- Debugging
+- Attention to Detail
+- Problem Solving
+- Technical Documentation
+- Quality Verification
 
-✔ IEEE Journal Processing
+---
 
-✔ Quality Assurance
+## 🛠 Technical Skills
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=flat-square)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+### Data Analytics
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=Power-BI&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+### Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn)
+
+### QA & Testing
+
+- Manual Testing
+- Functional Testing
+- Regression Testing
+- STLC
+- SDLC
+- Bug Reporting
+- Database Validation
+
+### Tools & Platforms
+
+- GitHub
+- Jira
+- Postman
+- Jupyter Notebook
+- Google Colab
+- VS Code
+- PyCharm
 
 ---
 
@@ -88,23 +120,27 @@
 
 ## 🍎 Apple Leaf Disease Prediction
 
-**Python • TensorFlow • Keras • Flask**
+**Python | TensorFlow | Keras | Flask**
 
-- CNN model trained on 2000+ images
-- Disease classification system
-- Real-time prediction using Flask
+- Developed CNN-based disease detection model
+- Trained on 2000+ plant leaf images
+- Improved classification accuracy
+- Deployed using Flask Web Application
 
 ---
 
 ## 🛡️ GuardConnect Security Job Portal
 
-**Python • Flask • SQLite**
+**Python | Flask | SQLite**
+
+### Features
 
 - Client Module
 - Agency Module
 - Job Seeker Module
-- Role Based Authentication
-- Relational Database Design
+- Role-Based Authentication
+- Job Management System
+- Database Integration
 
 ---
 
@@ -112,14 +148,16 @@
 
 **Power BI**
 
-- 5000+ records analyzed
+### Highlights
+
+- Analyzed 5000+ sales records
 - Interactive KPI Dashboard
-- Sales & Profit Insights
-- Business Intelligence Reporting
+- Revenue & Profit Analysis
+- Business Insight Reporting
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
 🏆 Google Advanced Data Analytics
 
@@ -129,50 +167,48 @@
 
 ---
 
-# 📈 GitHub Analytics
+## 🌱 Currently Learning
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ajeetrwt2002&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajeetrwt2002&layout=compact&theme=tokyonight"/>
-
-</div>
+- Advanced SQL
+- Power BI
+- Data Analytics
+- Software Testing
+- Business Intelligence
 
 ---
 
-# 🔥 GitHub Streak
+## 💡 Professional Strengths
 
-<div align="center">
+✔ Analytical Thinking
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajeetrwt2002&theme=tokyonight"/>
+✔ Problem Solving
 
-</div>
+✔ Attention to Detail
+
+✔ Communication Skills
+
+✔ Team Collaboration
+
+✔ Continuous Learning
 
 ---
 
-# 🌐 Connect With Me
+## 📬 Connect With Me
 
-<p align="center">
+📧 **Email:** rawatajeet59@gmail.com
 
-<a href="mailto:rawatajeet59@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+💼 **LinkedIn:** www.linkedin.com/in/ajeet-rwt
 
-<a href="https://linkedin.com/in/ajeet-rwt">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
+💻 **GitHub:** github.com/Ajeetrwt2002
 
-<a href="https://github.com/Ajeetrwt2002">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-</p>
+📍 **Location:** Dehradun, Uttarakhand, India
 
 ---
 
 <div align="center">
 
-### ⭐ Turning Data into Insights & Ideas into Solutions ⭐
+### ⭐ Learning • Building • Growing ⭐
+
+*"Success is built through continuous learning and consistent effort."*
 
 </div>
